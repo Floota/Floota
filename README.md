@@ -1,5 +1,5 @@
 ## 🚀 About Me
-👋 Hi, I’m @Floota
+👋 Hi, I’m Max, also known as @Floota 
 - I’m interested in software development, deployment and architecture as well as,  
     all things videogames, and how they're made.
 - I’m currently learning GDScript, Angular and good practices to make my code cleaner   and more legible.
